@@ -6,5 +6,7 @@ app.on('ready', () => {
         height: 600
     })
     console.log("TESTE DO ELECTRON")
+    janelaPrincipal.loadURL(`file://${__dirname}/app/index.html`)
 
 });
+app.allowRendererProcessReuse = true;
