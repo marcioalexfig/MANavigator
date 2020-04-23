@@ -1,4 +1,4 @@
-# MANavgator
+# MANavigator
 
 ## Objetivo
 
