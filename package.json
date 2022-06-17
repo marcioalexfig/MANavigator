@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "electron": "^8.2.3"
+    "electron": "^15.5.5"
   }
 }
